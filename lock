@@ -5,7 +5,7 @@ getgenv().tracer_part = 'HumanoidRootPart'
 getgenv().tracer_noti = true
 getgenv().tracer_Thickness = 3.5
 getgenv().tracer_Transparency = 1
-getgenv().tracer_Color = Color3.fromRGB(0, 255, 0)
+getgenv().tracer_Color = Color3.fromRGB(255, 255, 255)
 getgenv().tracer_FOV = false
 
 local CurrentCamera = game:GetService("Workspace").CurrentCamera
