@@ -1,4 +1,4 @@
-getgenv().tracer_enabled = true
+getgenv().tracer_enabled = false
 getgenv().tracer_key = "q"
 getgenv().tracer_pre = 0.37764398
 getgenv().tracer_part = 'HumanoidRootPart'
