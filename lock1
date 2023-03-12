@@ -14,7 +14,7 @@
  getgenv().WallCheck = false
  getgenv().SmoothnessAmount = 0.05
  getgenv().Notificationmode = true
- 
+ Aimlock = true
  
  
  local CurrentCamera = game:GetService "Workspace".CurrentCamera
